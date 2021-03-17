@@ -1,4 +1,4 @@
-package com.trux;
+package com.trux.exemplar;
 
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;

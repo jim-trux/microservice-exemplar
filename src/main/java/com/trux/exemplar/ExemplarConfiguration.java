@@ -1,4 +1,4 @@
-package com.trux;
+package com.trux.exemplar;
 
 import io.dropwizard.Configuration;
 import com.fasterxml.jackson.annotation.JsonProperty;
