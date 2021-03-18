@@ -1,4 +1,4 @@
-package com.trux.exemplar.domain;
+package com.trux.exemplar.agg.persons;
 
 
 import lombok.AllArgsConstructor;

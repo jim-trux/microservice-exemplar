@@ -2,7 +2,7 @@ package com.trux.exemplar.domain;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.junit.jupiter.api.Assertions;
+import com.trux.exemplar.agg.persons.XPerson;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -43,6 +43,4 @@ public class XPersonTest
         );
 
     }
-
-
 }
